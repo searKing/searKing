@@ -11,7 +11,11 @@
 | Editor           	| GoLand/CLion/PyCharm/Gateway, VsCode, VIM                                                                 |
 | Terminal          | Iterm2, Oh My Zsh, Tmux                                                             |
 
-[![github contribution grid snake animation](https://raw.githubusercontent.com/searKing/searKing/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/searKing)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/searKing/searKing/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/searKing/searKing/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/searKing/searKing/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <details>
 <summary>GitHub Stats</summary>
