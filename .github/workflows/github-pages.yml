@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - main
+      - github-pages
   pull_request:
 
 jobs:
