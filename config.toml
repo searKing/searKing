@@ -1,0 +1,16 @@
+baseurl = "https://github.com/searKing"
+title = "「searKing」"
+languageCode = "zh-CN"
+hasCJKLanguage = true
+copyright = "Copyright (c) 2023 - 2023, 「searKing」; all rights reserved."
+MetaDataFormat = "yaml"
+Paginate = "9"
+PaginatePath = "page"
+rssLimit = 100
+
+[author]
+    name = "searKing"
+
+[indexes]
+    tag = "tags"
+    topic = "topics"
