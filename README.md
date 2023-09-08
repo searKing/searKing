@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-Total Time: 30 hrs 8 mins
+Total Time: 27 hrs 57 mins
 
-Go                13 hrs 26 mins  ███████████░░░░░░░░░░░░░░   44.62 %
-Python            3 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Protocol Buffer   3 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-YAML              2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-go.mod            1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Bash              1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Dockerfile        1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-TSQL              58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-protobuf          46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-C++               41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Go                9 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 %
+Protocol Buffer   5 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+Python            3 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+YAML              2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+protobuf          1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Bash              1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Dockerfile        1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+TSQL              58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+C++               37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+sh                32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
