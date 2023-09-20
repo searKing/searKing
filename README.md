@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
-Total Time: 43 hrs 52 mins
+Total Time: 39 hrs 8 mins
 
-Go                26 hrs 47 mins  ███████████████▒░░░░░░░░░   61.05 %
-Python            5 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-YAML              2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-CMake             2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-sh                1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-C++               1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Protocol Buffer   55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Dockerfile        49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-CMakeLists.txt    46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Bash              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Go                18 hrs 42 mins  ████████████░░░░░░░░░░░░░   47.79 %
+Python            7 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+YAML              2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+CMake             2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Dockerfile        1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+sh                1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+C++               1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Protocol Buffer   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+CMakeLists.txt    46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TSQL              33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
