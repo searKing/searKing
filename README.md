@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
-Total Time: 45 hrs 11 mins
+Total Time: 36 hrs 32 mins
 
-Python            15 hrs 30 mins  ████████▓░░░░░░░░░░░░░░░░   34.30 %
-Go                10 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
-Dockerfile        6 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-YAML              2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Makefile          2 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-sh                1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Bash              1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-C++               1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Shell Script      36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-TSQL              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Python            13 hrs 3 mins   █████████░░░░░░░░░░░░░░░░   35.75 %
+Go                9 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+Dockerfile        4 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Makefile          2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+YAML              1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+sh                1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Bash              1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+C++               59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Shell Script      36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+HTTP Request      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
