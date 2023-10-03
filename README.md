@@ -31,20 +31,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2023 - To: 01 October 2023
+From: 25 September 2023 - To: 02 October 2023
 
-Total Time: 6 hrs 43 mins
+Total Time: 3 hrs 9 mins
 
-Go                5 hrs 19 mins   ███████████████████▓░░░░░   79.12 %
-C++               23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-sh                22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-YAML              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Protocol Buffer   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-protobuf          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Dockerfile        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Python            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-CMake             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go    2 hrs 58 mins   ███████████████████████▓░   94.10 %
+sh    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+C++   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
