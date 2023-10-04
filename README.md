@@ -31,13 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2023 - To: 02 October 2023
+From: 26 September 2023 - To: 03 October 2023
 
-Total Time: 3 hrs 9 mins
+Total Time: 16 mins
 
-Go    2 hrs 58 mins   ███████████████████████▓░   94.10 %
-sh    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-C++   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Go   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
