@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 23 October 2023
+From: 17 October 2023 - To: 24 October 2023
 
-Total Time: 13 hrs 47 mins
+Total Time: 9 hrs 47 mins
 
-sh                2 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-Go                2 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-C++               1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Python            1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-JSON              1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-YAML              48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-TypeScript        44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-ObjectiveC        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-textmate          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-JavaScript        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+sh                2 hrs 48 mins   ███████░░░░░░░░░░░░░░░░░░   28.65 %
+Python            1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+JSON              1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+YAML              50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+TypeScript        47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+JavaScript        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Protocol Buffer   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+protobuf          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+HTTP Request      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+TSConfig          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
