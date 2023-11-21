@@ -31,20 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2023 - To: 18 November 2023
+From: 12 November 2023 - To: 19 November 2023
 
 Total Time: 37 hrs 39 mins
 
-Go                15 hrs 59 mins  ██████████▓░░░░░░░░░░░░░░   42.45 %
-C++               13 hrs 3 mins   ████████▓░░░░░░░░░░░░░░░░   34.69 %
-ObjectiveC        1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Python            1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-sh                1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-YAML              55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-textmate          42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-CMake             32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-SWIG              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Text              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
