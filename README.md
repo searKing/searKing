@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
-Total Time: 28 hrs 15 mins
+Total Time: 30 hrs 9 mins
 
-Go                11 hrs 13 mins  ██████████░░░░░░░░░░░░░░░   39.73 %
-C++               7 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
-ObjectiveC        1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-YAML              1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Python            1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-HTTP Request      50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Text              45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-sh                44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Protocol Buffer   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Makefile          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Go                12 hrs 9 mins   ██████████░░░░░░░░░░░░░░░   40.29 %
+C++               7 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+ObjectiveC        2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+YAML              1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Python            1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+HTTP Request      50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+sh                47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Text              45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Protocol Buffer   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Makefile          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
