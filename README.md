@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-Total Time: 31 hrs 13 mins
+Total Time: 32 hrs 29 mins
 
-Go                14 hrs 5 mins   ███████████▒░░░░░░░░░░░░░   45.13 %
-sh                2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Python            2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Dockerfile        2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Protocol Buffer   1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-YAML              1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-protobuf          1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Bash              1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-HTTP Request      1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Shell Script      41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Go                16 hrs 51 mins  █████████████░░░░░░░░░░░░   51.89 %
+sh                2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Dockerfile        2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Protocol Buffer   1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+YAML              1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Python            1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+protobuf          1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Bash              1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+HTTP Request      46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+C++               44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
