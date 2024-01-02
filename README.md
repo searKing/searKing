@@ -31,18 +31,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-Total Time: 4 hrs 42 mins
+Total Time: 4 hrs 32 mins
 
-sh                2 hrs 20 mins   ████████████▒░░░░░░░░░░░░   49.66 %
-C++               1 hr 12 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
-Python            56 mins         █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-ObjectiveC        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Text              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Objective-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+sh                2 hrs 12 mins   ████████████░░░░░░░░░░░░░   48.65 %
+C++               1 hr 12 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
+Python            54 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+ObjectiveC        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Text              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Objective-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Go                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
