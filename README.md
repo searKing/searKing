@@ -31,20 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2024 - To: 08 February 2024
+From: 02 February 2024 - To: 09 February 2024
 
-Total Time: 6 hrs 53 mins
+Total Time: 4 hrs 22 mins
 
-Go                   5 hrs 31 mins   ████████████████████░░░░░   80.18 %
-sh                   42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-HTTP Request         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-YAML                 14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-ObjectiveC           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Log                  2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-C++                  2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-x86 Plan9 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Assembly             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Text                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                   3 hrs 28 mins   ███████████████████▓░░░░░   79.28 %
+sh                   40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+YAML                 13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+x86 Plan9 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Assembly             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
