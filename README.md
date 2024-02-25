@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2024 - To: 23 February 2024
+From: 17 February 2024 - To: 24 February 2024
 
-Total Time: 34 hrs 2 mins
+Total Time: 35 hrs 48 mins
 
-Go                12 hrs 14 mins  █████████░░░░░░░░░░░░░░░░   35.95 %
-C++               7 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
-ObjectiveC        3 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-Text              3 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Makefile          1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-sh                1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-textmate          1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-YAML              50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Protocol Buffer   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-go.mod            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Go                13 hrs 56 mins  █████████▓░░░░░░░░░░░░░░░   38.93 %
+C++               7 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
+ObjectiveC        3 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Text              3 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+Makefile          1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+sh                1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+textmate          1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+YAML              51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Protocol Buffer   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+go.mod            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
