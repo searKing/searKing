@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2024 - To: 27 February 2024
+From: 21 February 2024 - To: 28 February 2024
 
-Total Time: 35 hrs 22 mins
+Total Time: 36 hrs 22 mins
 
-Go                17 hrs 37 mins  ████████████▒░░░░░░░░░░░░   49.82 %
-C++               6 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-ObjectiveC        2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Text              2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-sh                1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-YAML              1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-go.mod            1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Protocol Buffer   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-textmate          39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-HTTP Request      31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Go                21 hrs 5 mins   ██████████████▒░░░░░░░░░░   57.99 %
+C++               4 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+YAML              2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+ObjectiveC        1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+sh                1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+go.mod            1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+HTTP Request      1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Protocol Buffer   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+CMake             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Text              26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
