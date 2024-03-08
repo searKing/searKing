@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2024 - To: 06 March 2024
+From: 29 February 2024 - To: 07 March 2024
 
-Total Time: 22 hrs 47 mins
+Total Time: 20 hrs 20 mins
 
-Go                11 hrs 57 mins  █████████████░░░░░░░░░░░░   52.47 %
-sh                2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-C++               2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-YAML              2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Python            1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Dockerfile        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-HTTP Request      41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Protocol Buffer   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Bash              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-ObjectiveC        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Go                7 hrs 56 mins   █████████▓░░░░░░░░░░░░░░░   39.07 %
+sh                4 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
+YAML              2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Python            1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+C++               1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Dockerfile        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+HTTP Request      38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Protocol Buffer   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Bash              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+ObjectiveC        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
