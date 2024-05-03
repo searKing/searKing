@@ -31,18 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2024 - To: 01 May 2024
+From: 25 April 2024 - To: 02 May 2024
 
-Total Time: 3 hrs 8 mins
+Total Time: 16 mins
 
-Go                   1 hr 3 mins     ████████▒░░░░░░░░░░░░░░░░   33.47 %
-sh                   49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.03 %
-C++                  29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Markdown             28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Makefile             18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-go.mod               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-x86 Plan9 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-HTTP Request         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
