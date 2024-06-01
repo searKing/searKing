@@ -31,19 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-Total Time: 2 hrs 16 mins
+Total Time: 1 hr 7 mins
 
-Go                1 hr 16 mins    ██████████████░░░░░░░░░░░   55.65 %
-sh                26 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
-Bash              15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-HTTP Request      8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Protocol Buffer   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-protobuf          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Text              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Go                38 mins         ██████████████▒░░░░░░░░░░   57.35 %
+sh                20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.74 %
+HTTP Request      8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
