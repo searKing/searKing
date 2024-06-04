@@ -31,15 +31,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2024 - To: 02 June 2024
+From: 27 May 2024 - To: 03 June 2024
 
-Total Time: 1 hr 7 mins
+Total Time: 58 mins
 
-Go                38 mins         ██████████████▒░░░░░░░░░░   57.35 %
-sh                20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.74 %
-HTTP Request      8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go             38 mins         ████████████████▒░░░░░░░░   65.61 %
+sh             20 mins         ████████▓░░░░░░░░░░░░░░░░   34.36 %
+HTTP Request   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+protobuf       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
