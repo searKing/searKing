@@ -31,13 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2024 - To: 05 June 2024
+From: 30 May 2024 - To: 06 June 2024
 
-Total Time: 1 hr 11 mins
+Total Time: 2 hrs 18 mins
 
-Go     1 hr 6 mins     ███████████████████████▒░   93.30 %
-YAML   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-sh     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Go       2 hrs 2 mins    ██████████████████████░░░   88.55 %
+go.mod   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+sh       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+YAML     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
