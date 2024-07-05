@@ -31,20 +31,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2024 - To: 03 July 2024
+From: 27 June 2024 - To: 04 July 2024
 
-Total Time: 1 hr 51 mins
+Total Time: 16 mins
 
-Go                1 hr 37 mins    ██████████████████████░░░   87.58 %
-sh                10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Log               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Dockerfile        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go                16 mins         ████████████████████████▓   98.84 %
+go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
