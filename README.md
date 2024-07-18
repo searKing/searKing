@@ -31,18 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2024 - To: 16 July 2024
+From: 10 July 2024 - To: 17 July 2024
 
-Total Time: 11 hrs 15 mins
+Total Time: 9 hrs 19 mins
 
-Go                10 hrs 46 mins  ████████████████████████░   95.65 %
-sh                21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-go.mod            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go             8 hrs 53 mins   ████████████████████████░   95.41 %
+sh             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+go.mod         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
