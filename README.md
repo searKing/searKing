@@ -31,15 +31,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2024 - To: 18 July 2024
+From: 12 July 2024 - To: 19 July 2024
 
-Total Time: 6 hrs 9 mins
+Total Time: 6 hrs 27 mins
 
-Go             5 hrs 33 mins   ██████████████████████▓░░   90.31 %
-sh             27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-go.mod         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go         5 hrs 53 mins   ██████████████████████▓░░   91.29 %
+sh         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+go.mod     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+protobuf   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
