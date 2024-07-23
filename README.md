@@ -31,14 +31,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2024 - To: 21 July 2024
+From: 15 July 2024 - To: 22 July 2024
 
-Total Time: 6 hrs 27 mins
+Total Time: 6 hrs 2 mins
 
-Go         5 hrs 53 mins   ███████████████████████░░   91.34 %
-sh         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-go.mod     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-protobuf   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Go         5 hrs 27 mins   ██████████████████████▓░░   90.39 %
+sh         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+go.mod     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+protobuf   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
