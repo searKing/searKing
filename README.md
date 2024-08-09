@@ -31,14 +31,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2024 - To: 07 August 2024
+From: 01 August 2024 - To: 08 August 2024
 
-Total Time: 15 mins
+Total Time: 14 mins
 
-Go                12 mins         ███████████████████▓░░░░░   78.74 %
-protobuf          2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-Protocol Buffer   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-sh                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Go                10 mins         ███████████████████▒░░░░░   77.09 %
+protobuf          2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
+Protocol Buffer   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+sh                0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
