@@ -31,17 +31,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2024 - To: 20 August 2024
+From: 14 August 2024 - To: 21 August 2024
 
-Total Time: 4 hrs 28 mins
+Total Time: 3 hrs 13 mins
 
-Go                4 hrs 23 mins   ████████████████████████▓   98.26 %
-go.mod            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Text              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-sh                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go                3 hrs 8 mins    ████████████████████████▒   97.25 %
+go.mod            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+sh                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
