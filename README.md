@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
-Total Time: 21 hrs 52 mins
+Total Time: 16 hrs 49 mins
 
-Python            10 hrs 4 mins   ███████████▓░░░░░░░░░░░░░   46.03 %
-Go                6 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.36 %
-Protocol Buffer   1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-protobuf          1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Bash              27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Cheetah           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Go Template       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Docker            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Shell Script      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-JSON              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Python            10 hrs 4 mins   ███████████████░░░░░░░░░░   59.85 %
+Go                4 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
+Protocol Buffer   58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+protobuf          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Cheetah           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Go Template       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+JSON              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+sh                5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+textmate          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+PythonStub        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
