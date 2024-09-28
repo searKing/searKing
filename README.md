@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2024 - To: 26 September 2024
+From: 20 September 2024 - To: 27 September 2024
 
-Total Time: 8 hrs 15 mins
+Total Time: 10 hrs 34 mins
 
-Go                2 hrs 39 mins   ████████░░░░░░░░░░░░░░░░░   32.11 %
-Protocol Buffer   2 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   28.67 %
-protobuf          1 hr 28 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
-Text              1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-sh                20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Makefile          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JSON              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Python            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Markdown          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Go                4 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   39.03 %
+Protocol Buffer   2 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+protobuf          1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Text              1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Python            33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+sh                22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Makefile          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+JSON              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
