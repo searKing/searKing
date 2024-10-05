@@ -31,20 +31,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2024 - To: 03 October 2024
+From: 27 September 2024 - To: 04 October 2024
 
-Total Time: 7 hrs 41 mins
+Total Time: 5 hrs 6 mins
 
-Go                5 hrs 33 mins   ██████████████████░░░░░░░   72.26 %
-YAML              56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Python            29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-protobuf          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Protocol Buffer   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-go.mod            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-sh                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Java Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-SourceMap         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                3 hrs 49 mins   ██████████████████▓░░░░░░   74.96 %
+YAML              56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+go.mod            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+sh                5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Java Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+SourceMap         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
