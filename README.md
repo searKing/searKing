@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Total Time: 18 hrs 18 mins
+Total Time: 22 hrs 43 mins
 
-Go                16 hrs 21 mins  ██████████████████████▒░░   89.36 %
-YAML              1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-sh                13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-go.mod            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Java Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-protobuf          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Makefile          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-GitIgnore file    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go                21 hrs 52 mins  ████████████████████████░   96.23 %
+YAML              26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+go.mod            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+sh                9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Makefile          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+protobuf          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+GitIgnore file    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Python            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+SourceMap         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
