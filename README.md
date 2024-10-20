@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2024 - To: 18 October 2024
+From: 12 October 2024 - To: 19 October 2024
 
-Total Time: 53 hrs 48 mins
+Total Time: 42 hrs 14 mins
 
-Go                47 hrs 37 mins  ██████████████████████░░░   88.52 %
-sh                2 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Shell Script      59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Bash              57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-go.mod            38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Dockerfile        18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-protobuf          16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Protocol Buffer   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-HTTP Request      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Cheetah           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Go                39 hrs 32 mins  ███████████████████████▒░   93.62 %
+sh                40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Bash              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+go.mod            25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Dockerfile        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+protobuf          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Shell Script      12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Protocol Buffer   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Go Template       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Log               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
