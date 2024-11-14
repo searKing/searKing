@@ -31,14 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2024 - To: 11 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-Total Time: 3 hrs 6 mins
+Total Time: 2 hrs 55 mins
 
-Go         2 hrs 49 mins   ██████████████████████▓░░   90.87 %
-Python     16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-sh         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python            1 hr 24 mins    ████████████░░░░░░░░░░░░░   47.93 %
+Makefile          51 mins         ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+Shell Script      17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+Go                14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Bash              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+sh                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Log               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+C++               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
