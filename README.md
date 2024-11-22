@@ -31,19 +31,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-Total Time: 28 mins
+Total Time: 13 mins
 
-sh                9 mins          ████████▓░░░░░░░░░░░░░░░░   34.72 %
-C++               8 mins          ███████▓░░░░░░░░░░░░░░░░░   30.81 %
-CMake             4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-Go                3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-ObjectiveC        2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+sh         10 mins         ███████████████████░░░░░░   75.86 %
+Go         3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.38 %
+Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
