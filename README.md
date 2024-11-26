@@ -31,13 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-Total Time: 13 mins
+Total Time: 10 mins
 
-sh         10 mins         ███████████████████░░░░░░   75.86 %
-Go         3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+sh   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
