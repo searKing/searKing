@@ -31,18 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 01 December 2024
+From: 25 November 2024 - To: 02 December 2024
 
-Total Time: 3 hrs 24 mins
+Total Time: 2 hrs 30 mins
 
-sh           1 hr 11 mins    ████████▓░░░░░░░░░░░░░░░░   34.84 %
-C++          58 mins         ███████░░░░░░░░░░░░░░░░░░   28.58 %
-JSON         28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-TypeScript   20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-ObjectiveC   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+sh           1 hr 27 mins    ██████████████▓░░░░░░░░░░   58.24 %
+JSON         29 mins         █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+TypeScript   20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+XML          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
