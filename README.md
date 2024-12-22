@@ -31,14 +31,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2024 - To: 20 December 2024
+From: 14 December 2024 - To: 21 December 2024
 
-Total Time: 1 hr 59 mins
+Total Time: 1 hr 47 mins
 
-sh           1 hr 41 mins    █████████████████████▒░░░   85.12 %
-TSConfig     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-TypeScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+sh           1 hr 36 mins    ██████████████████████▒░░   89.95 %
+TSConfig     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
