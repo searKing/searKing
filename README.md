@@ -31,15 +31,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Total Time: 51 mins
+Total Time: 1 hr 39 mins
 
-Go                38 mins         ██████████████████▓░░░░░░   75.22 %
-protobuf          8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-YAML              2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-HTTP Request      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Protocol Buffer   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Go                49 mins         ████████████▒░░░░░░░░░░░░   49.49 %
+YAML              39 mins         ██████████░░░░░░░░░░░░░░░   39.54 %
+protobuf          8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+HTTP Request      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Protocol Buffer   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Dockerfile        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
