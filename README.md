@@ -31,14 +31,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-Total Time: 55 mins
+Total Time: 1 hr 7 mins
 
-Go         30 mins         █████████████▓░░░░░░░░░░░   54.55 %
-protobuf   13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 %
-C++        11 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go                40 mins         ██████████████▓░░░░░░░░░░   59.24 %
+protobuf          13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+C++               12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+sh                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
