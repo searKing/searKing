@@ -31,18 +31,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2025 - To: 11 February 2025
+From: 05 February 2025 - To: 12 February 2025
 
-Total Time: 1 hr 25 mins
+Total Time: 29 mins
 
-Go                50 mins         ██████████████▓░░░░░░░░░░   59.03 %
-C++               13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-protobuf          13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-Dockerfile        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-sh                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-HTTP Request      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Go                19 mins         █████████████████░░░░░░░░   67.49 %
+Dockerfile        4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+C++               2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+sh                0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+HTTP Request      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Protocol Buffer   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+protobuf          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
