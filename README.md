@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-Total Time: 56 mins
+Total Time: 43 mins
 
-Go                22 mins         ██████████░░░░░░░░░░░░░░░   40.23 %
-Shell Script      11 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-Bash              8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-Dockerfile        7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-C++               2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-sh                2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-HTTP Request      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Protocol Buffer   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Go                12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.05 %
+Shell Script      11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
+Bash              8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+Dockerfile        7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+C++               1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+sh                1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+HTTP Request      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
