@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 22 April 2025 - To: 29 April 2025
 
-Total Time: 46 hrs 49 mins
+Total Time: 46 hrs 31 mins
 
-Go                38 hrs 5 mins   ████████████████████▒░░░░   81.34 %
-sh                4 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Python            2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-SQL               51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-protobuf          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Protocol Buffer   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Go                37 hrs 18 mins  ████████████████████░░░░░   80.19 %
+sh                4 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Python            2 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+protobuf          43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+SQL               25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 Go Template       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Makefile          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Bash              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Protocol Buffer   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Makefile          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 Cheetah           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
