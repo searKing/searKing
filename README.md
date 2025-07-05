@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2025 - To: 03 July 2025
+From: 27 June 2025 - To: 04 July 2025
 
-Total Time: 38 hrs 30 mins
+Total Time: 37 hrs 23 mins
 
-Go                   17 hrs 54 mins  ███████████▓░░░░░░░░░░░░░   46.50 %
-YAML                 7 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-protobuf             4 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Protocol Buffer      4 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-sh                   2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Makefile             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Python               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Helm TEXT template   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-go.mod               9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Text                 8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Go                   17 hrs 32 mins  ███████████▓░░░░░░░░░░░░░   46.90 %
+YAML                 7 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+protobuf             4 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Protocol Buffer      3 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+sh                   1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Markdown             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Makefile             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Python               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Helm TEXT template   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Text                 8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
