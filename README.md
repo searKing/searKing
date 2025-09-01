@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Total Time: 29 hrs 15 mins
+Total Time: 27 hrs 28 mins
 
-Go                   19 hrs 18 mins  ████████████████▓░░░░░░░░   66.00 %
-YAML                 4 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-sh                   1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Protocol Buffer      1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-protobuf             1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-SQL                  38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Shell Script         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-go.mod               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Markdown             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Makefile             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Go                   18 hrs 3 mins   ████████████████▒░░░░░░░░   65.70 %
+YAML                 4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+Protocol Buffer      1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+sh                   1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+protobuf             1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+SQL                  35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Shell Script         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Markdown             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+go.mod               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Makefile             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
