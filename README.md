@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-Total Time: 12 hrs 56 mins
+Total Time: 5 hrs 34 mins
 
-Go                7 hrs 47 mins   ███████████████░░░░░░░░░░   60.25 %
-sh                1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-protobuf          1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-Protocol Buffer   1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Bash              43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Dockerfile        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Python            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Markdown          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Shell Script      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Go                1 hr 46 mins    ████████░░░░░░░░░░░░░░░░░   31.87 %
+Protocol Buffer   51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
+Bash              43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+protobuf          42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Dockerfile        27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+sh                27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Python            13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Markdown          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Shell Script      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
