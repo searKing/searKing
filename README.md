@@ -31,18 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Total Time: 6 hrs 49 mins
+Total Time: 3 hrs 31 mins
 
-sh                3 hrs 34 mins   █████████████░░░░░░░░░░░░   52.45 %
-Go                3 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.51 %
-protobuf          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+sh   3 hrs 31 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
