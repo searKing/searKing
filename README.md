@@ -31,11 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2026 - To: 29 January 2026
+From: 23 January 2026 - To: 30 January 2026
 
-Total Time: 1 hr 27 mins
+Total Time: 6 hrs 40 mins
 
-sh   1 hr 27 mins    █████████████████████████   100.00 %
+Go                2 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   31.91 %
+protobuf          1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.12 %
+Protocol Buffer   1 hr 16 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+sh                1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+Markdown          26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+SQL               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+YAML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C++               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
