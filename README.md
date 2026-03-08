@@ -31,17 +31,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2026 - To: 06 March 2026
+From: 28 February 2026 - To: 07 March 2026
 
-Total Time: 7 hrs 7 mins
+Total Time: 4 hrs 55 mins
 
-Go                6 hrs 3 mins          █████████████████████▒░░░   85.10 %
-SQL               27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Markdown          19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Python            9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Protocol Buffer   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-protobuf          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-textmate          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                4 hrs                 ████████████████████▒░░░░   81.43 %
+SQL               27 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Markdown          11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Python            9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Protocol Buffer   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+textmate          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 go.mod            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
