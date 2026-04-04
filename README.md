@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2026 - To: 02 April 2026
+From: 27 March 2026 - To: 03 April 2026
 
-Total Time: 28 hrs 11 mins
+Total Time: 30 hrs 23 mins
 
-Go                   8 hrs 17 mins         ███████▒░░░░░░░░░░░░░░░░░   29.42 %
-C++                  7 hrs 15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
-Protocol Buffer      4 hrs 20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Markdown             4 hrs 8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-Text                 52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Python               50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-YAML                 37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Bash                 27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-ThinClientFileType   26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-protobuf             23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Go                   9 hrs 17 mins         ███████▓░░░░░░░░░░░░░░░░░   30.53 %
+C++                  8 hrs 15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+Markdown             4 hrs 43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+Protocol Buffer      3 hrs 43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+Python               1 hr 20 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Text                 58 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+YAML                 37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Bash                 27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+ThinClientFileType   26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+protobuf             6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
