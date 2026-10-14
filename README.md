@@ -31,20 +31,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2026 - To: 13 October 2026
+From: 07 October 2026 - To: 14 October 2026
 
-Total Time: 44 hrs 19 mins
+Total Time: 44 hrs 5 mins
 
-Go                   26 hrs 51 mins        ███████████████░░░░░░░░░░   60.62 %
-Markdown             6 hrs 42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
-Python               3 hrs 13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-C++                  2 hrs 32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-YAML                 1 hr 15 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-TypeScript           1 hr 14 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Protocol Buffer      1 hr 3 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-protobuf             16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-JavaScript           15 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JSON                 13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Go                   24 hrs 24 mins        ██████████████░░░░░░░░░░░   55.36 %
+Markdown             7 hrs 7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Python               3 hrs 13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+C++                  2 hrs 34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+YAML                 1 hr 29 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+TypeScript           1 hr 28 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Protocol Buffer      1 hr 12 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+go.mod               26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Bash                 20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JavaScript           18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
