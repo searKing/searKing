@@ -2,24 +2,19 @@
 
 ## Tech Stack
 
-| | |
-|---|---|
-| Language | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?perline=12&i=go,c,cpp,py,ts&theme=dark" /><img alt="Language" src="https://skillicons.dev/icons?perline=12&i=go,c,cpp,py,ts&theme=light" /></picture><br>Cgo, VHDL |
-| Domain Knowledge | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?perline=12&i=linux,opencv,kubernetes,docker,pytorch&theme=dark" /><img alt="Domain Knowledge" src="https://skillicons.dev/icons?perline=12&i=linux,opencv,kubernetes,docker,pytorch&theme=light" /></picture><br>AI, FFmpeg, Streaming Media |
-| Database | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?perline=12&i=mysql,redis,sqlite,mongodb&theme=dark" /><img alt="Database" src="https://skillicons.dev/icons?perline=12&i=mysql,redis,sqlite,mongodb&theme=light" /></picture> |
-| OS | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?perline=12&i=apple,linux,windows&theme=dark" /><img alt="OS" src="https://skillicons.dev/icons?perline=12&i=apple,linux,windows&theme=light" /></picture><br>CentOS |
-| Editor | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?perline=12&i=idea,clion,pycharm,vscode,vim&theme=dark" /><img alt="Editor" src="https://skillicons.dev/icons?perline=12&i=idea,clion,pycharm,vscode,vim&theme=light" /></picture><br>GoLand, Gateway |
-| Terminal | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?perline=12&i=bash&theme=dark" /><img alt="Terminal" src="https://skillicons.dev/icons?perline=12&i=bash&theme=light" /></picture><br>iTerm2, Oh My Zsh, Tmux |
+| Property         	| Data                                                                               	|
+|------------------	|------------------------------------------------------------------------------------	|
+| Language         	| Go/Cgo, C/C++, Python, TypeScript, VHDL                                                 |
+| Domain Knowledge 	| AI, Linux, FFmpeg, OpenCV, Streaming Media, Kubernetes                                            	|
+| Database         	| MySQL, Redis, Sqlite, MongoDB                                                       |
+| OS               	| MacOS, CentOS, Windows                                                              |
+| Editor           	| GoLand/CLion/PyCharm/Gateway, VsCode, VIM                                                                 |
+| Terminal          | Iterm2, Oh My Zsh, Tmux                                                             |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-contribution-grid-snake-output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/searKing/searKing/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-profile-3d-contrib-output/profile-night-green.svg" />
-  <img alt="github-profile-3d-contrib" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-3d-contrib-output/profile-green.svg" />
 </picture>
 
 <details>
@@ -46,6 +41,16 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/github_dark/4-productive-time.svg" />
   <img alt="4-productive-time" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/default/4-productive-time.svg" />
 </picture></a>
+</details>
+
+<details>
+<summary>3D Contributions</summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-profile-3d-contrib-output/profile-night-green.svg" />
+  <img alt="github-profile-3d-contrib" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-3d-contrib-output/profile-green.svg" />
+</picture>
 </details>
 
 <details>
