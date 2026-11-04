@@ -12,9 +12,9 @@
 | Terminal          | Iterm2, Oh My Zsh, Tmux                                                             |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/searKing/searKing/blob/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/searKing/searKing/blob/github-contribution-grid-snake-output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/searKing/searKing/blob/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-contribution-grid-snake-output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/searKing/searKing/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <details>
@@ -52,20 +52,3 @@ C/C               20 mins               ▒░░░░░░░░░░░░�
 </details>
 
 [![LeetCode user chen-hai-xin-3](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fchen-hai-xin-3%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/chen-hai-xin-3/)
-
-<!--
-<a href="https://www.codewars.com/users/searKing"><img alt="searKing's Codewars" src="https://www.codewars.com/users/searKing/badges/small"></a>
-
-**searKing/searKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
