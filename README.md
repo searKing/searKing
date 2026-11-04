@@ -19,10 +19,28 @@
 
 <details>
 <summary>GitHub Stats</summary>
-  
-[![](https://raw.githubusercontent.com/searKing/searKing/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/searKing)
-[![](https://raw.githubusercontent.com/searKing/searKing/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/searKing/golang) [![](https://raw.githubusercontent.com/searKing/searKing/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/searKing/golang)
-[![](https://raw.githubusercontent.com/searKing/searKing/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/searKing/golang) [![](https://raw.githubusercontent.com/searKing/searKing/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/searKing/golang)
+<br>
+
+<a href="https://github.com/searKing"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/github_dark/0-profile-details.svg" />
+  <img alt="0-profile-details" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/default/0-profile-details.svg" />
+</picture></a>
+<a href="https://github.com/searKing/golang"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/github_dark/1-repos-per-language.svg" />
+  <img alt="1-repos-per-language" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/default/1-repos-per-language.svg" />
+</picture></a>
+<a href="https://github.com/searKing/golang"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/github_dark/2-most-commit-language.svg" />
+  <img alt="2-most-commit-language" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/default/2-most-commit-language.svg" />
+</picture></a>
+<a href="https://github.com/searKing/golang"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/github_dark/3-stats.svg" />
+  <img alt="3-stats" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/default/3-stats.svg" />
+</picture></a>
+<a href="https://github.com/searKing/golang"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/github_dark/4-productive-time.svg" />
+  <img alt="4-productive-time" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/default/4-productive-time.svg" />
+</picture></a>
 </details>
 
 <details>
