@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
-      - uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
+      - uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1 # v0.13.0
         env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_GITHUB_TOKEN }}
         with:
@@ -23,5 +23,17 @@ jobs:
           UTC_OFFSET: 8
           # EXCLUDE is an optional comma separated list of languages to exclude, defaults to ""
           EXCLUDE: ""
-          # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch 
-          AUTO_PUSH: true
+          # AUTO_PUSH is disabled: the action only pushes to the checked-out branch
+          # (BRANCH_NAME is declared but ignored), so the next step pushes the cards instead
+          AUTO_PUSH: false
+
+      # push the generated cards to a branch without history, keeping main free of bot commits
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/github-profile-summary-cards-output/<theme>/<file>
+      - name: push cards to the github-profile-summary-cards-output branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: github-profile-summary-cards-output
+          build_dir: profile-summary-card-output
+        env:
+          # pushing to this repo only needs contents: write, so the built-in token is enough
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
