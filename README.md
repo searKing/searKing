@@ -2,14 +2,14 @@
 
 ## Tech Stack
 
-| Property         	| Data                                                                               	|
-|------------------	|------------------------------------------------------------------------------------	|
-| Language         	| Go/Cgo, C/C++, Python, TypeScript, VHDL                                                 |
-| Domain Knowledge 	| AI, Linux, FFmpeg, OpenCV, Streaming Media, Kubernetes                                            	|
-| Database         	| MySQL, Redis, Sqlite, MongoDB                                                       |
-| OS               	| MacOS, CentOS, Windows                                                              |
-| Editor           	| GoLand/CLion/PyCharm/Gateway, VsCode, VIM                                                                 |
-| Terminal          | Iterm2, Oh My Zsh, Tmux                                                             |
+| Property         	 | Data                                                                               	                |
+|-------------------|----------------------------------------------------------------------------------------------------|
+| Language         	 | Go/Cgo, C/C++, Python, TypeScript, VHDL                                                            |
+| Domain Knowledge 	 | AI, Linux, FFmpeg, OpenCV, Streaming Media, Kubernetes                                            	 |
+| Database         	 | MySQL, Redis, Sqlite, MongoDB                                                                      |
+| OS               	 | MacOS, CentOS, Windows                                                                             |
+| Editor           	 | GoLand/CLion/PyCharm/Gateway, VsCode, VIM                                                          |
+| Terminal          | Iterm2, Oh My Zsh, Tmux                                                                            |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
@@ -41,10 +41,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/github_dark/4-productive-time.svg" />
   <img alt="4-productive-time" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-summary-cards-output/default/4-productive-time.svg" />
 </picture></a>
-</details>
 
 <details>
-<summary>3D Contributions</summary>
+<summary>GitHub 3D Contributions</summary>
 <br>
 
 <picture>
@@ -52,6 +51,8 @@
   <img alt="github-profile-3d-contrib" src="https://raw.githubusercontent.com/searKing/searKing/github-profile-3d-contrib-output/profile-green.svg" />
 </picture>
 </details>
+</details>
+
 
 <details>
 <summary>Wakatime Stats</summary>
